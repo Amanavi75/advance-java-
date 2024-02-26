@@ -13,7 +13,7 @@ f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 //f.setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
 //f.getContentPane().setBackground(Color.red);
 f.getContentPane().setBackground(new Color(0,110,110));
-f.setDefaultLookAndFeelDecorated(true);
+
 f.setLayout(null);
 f.setVisible(true);
 }
