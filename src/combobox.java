@@ -11,7 +11,6 @@ class combobox {
 f = new JFrame ("JCombobox ");
 String  color [] = {"red","green","blue","white"};
 
-@SuppressWarnings("rawtypes")
 JComboBox cb = new JComboBox<String>(color);
 
 cb.setBounds(30,50,100,30);
