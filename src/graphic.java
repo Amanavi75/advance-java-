@@ -15,6 +15,7 @@ class graphic extends Canvas {
         g.drawArc(20, 150, 70, 20, 30, 90);
         g.fillArc(60, 160, 100, 100, 130, 120);
         g.fillOval(90, 200, 120,100);
+        repaint(60);
         
     }
     public static void main(String[] args) {
