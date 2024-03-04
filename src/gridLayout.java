@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.color.*;
+
 public class gridLayout {
     JFrame f;
     gridLayout(){

@@ -1,8 +1,6 @@
 import javax.swing.*;
 import java.awt.Graphics;
 import java.awt.*;
-import java.awt.color.*;
-import java.awt.font.*;
 
 
 class graphic extends Canvas {

@@ -1,6 +1,5 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.Color.*;
 import java.awt.event.*;
 
 class keyListener implements KeyListener {
