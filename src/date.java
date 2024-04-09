@@ -15,6 +15,13 @@ public static void main(String[] args) {
 
     System.out.println(date.getDayOfYear());
     System.out.println(date.isLeapYear());
+
+    System.out.println(date.getYear());
+    System.out.println(date.isLeapYear());
+    System.out.println(date.getMonth());
+    System.out.println(date.getMonthValue());
+    System.out.println(date.getDayOfMonth());
+    System.out.println(date.plusMonths(2));
     
 }
     
