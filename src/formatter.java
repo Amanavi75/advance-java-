@@ -7,7 +7,9 @@ public class formatter {
         System.out.println(now.plusDays(10));
         System.out.println(now.minusDays(20));
 
-
+        DateTimeFormatter format = DateTimeFormatter.ofPattern("dd-mm-yyyy  mm:hh:ss");
+        String formatDateTime = now.format(format);
+        System.out.println(formatDateTime);
 
     }
     
