@@ -4,7 +4,7 @@ import java.time.LocalDate;
  */
 public class date {
 public static void main(String[] args) {
-    LocalDate date=LocalDate.now();
+LocalDate date=LocalDate.now();
 System.out.println("Today's date is :- " + date);
 LocalDate yesterday=date.minusDays(1);
 System.out.println("Yesterday's date was :- " + yesterday);
