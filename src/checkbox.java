@@ -48,7 +48,7 @@ public class checkbox {
         f.setSize(600,600);
         f.setResizable(true);
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        f.getContentPane().setBackground(Color.yellow);
+        f.getContentPane().setBackground(new Color(12,20,39));
         f.setLayout(null);
         f.setVisible(true);
     }

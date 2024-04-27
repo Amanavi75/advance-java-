@@ -1,0 +1,21 @@
+JFrame: A top-level container that represents the main window of an application.
+
+JPanel: A container that can hold other components and is used to organize them.
+
+JLabel: A component used to display a single line of read-only text or an image.
+
+JButton: A component that represents a button that can be clicked by the user.
+
+JTextField: A component that allows the user to enter and edit a single line of text.
+
+JTextArea: A component that allows the user to enter and edit multiple lines of text.
+
+JCheckBox: A component that represents a checkbox that can be selected or deselected.
+
+JRadioButton: A component that represents a radio button that can be selected from a group of options.
+
+JComboBox: A component that provides a drop-down list of selectable items.
+
+JList: A component that displays a list of items from which the user can select one or more.
+
+JTable: A component that displays tabular data in rows and columns.

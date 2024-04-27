@@ -4,7 +4,7 @@ class jpanel{
 public static void main(String... shruti){
 JFrame f=new JFrame("Panel application");
 JPanel p=new JPanel();
-p.setBounds(40,50,250,200);
+p.setBounds(40,50,250,200); //used tp set size in jframe or a container of gui 
 p.setBackground(Color.green);
 JButton b=new JButton("Push Button");
 b.setBounds(20,20,100,150);
@@ -17,7 +17,7 @@ p1.setBackground(Color.red);
 f.add(p);
 f.add(p1);
 f.setSize(600,600);
-f.setLocationRelativeTo(null);
+f.setLocationRelativeTo(null); // the component will be in centre of the screen 
 f.setResizable(false);
 f.setLayout(null);
 f.getContentPane().setBackground(new Color(50,160,160));

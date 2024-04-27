@@ -17,7 +17,7 @@ class jtext {
     tf2.setBounds(140, 90, 100, 30);
     
     JTextField tf3 = new JTextField();
-    tf3.setEditable(false);
+    tf3.setEditable(false); //  this method will allow us to edit the required textField
     tf3.setBounds(20, 320, 100, 30);
     
     JButton b = new JButton("+");

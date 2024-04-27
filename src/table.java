@@ -1,5 +1,5 @@
 import javax.swing.*;
-import java.awt.color.*;
+
 public class table {
     JFrame f;
     table(){
