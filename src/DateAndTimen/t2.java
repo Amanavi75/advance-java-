@@ -1,6 +1,7 @@
 package DateAndTimen;
 
 import java.time.LocalDate;
+import java.time.LocalTime;
 
 
 public class t2 {
@@ -11,6 +12,12 @@ public class t2 {
 
         System.out.println(l1);
         System.out.println(ld2);
+
+        LocalTime lt1 = LocalTime.of(14, 05);
+
+        System.out.println(lt1);
+
+
     }
     
 }
