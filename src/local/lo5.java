@@ -9,8 +9,6 @@ public class lo5 {
     static void printTime(Locale locale){
         DateFormat formatter = DateFormat.getDateInstance(DateFormat.DEFAULT, locale);
         Date currentDate = new Date();
-        String time = formatter.format(currentDate);
-
         String date = formatter.format(currentDate);
         //System.out.println(time + " in particular date Locale "+locale);
         System.out.println(date+ "  in particular date Locale "+locale);
