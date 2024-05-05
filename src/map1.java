@@ -16,6 +16,7 @@ public class map1 {
         // }
 
         // System.out.println(ls);
+        // using there are some disadvantages 
 
         /* traditional method using loop */
 
