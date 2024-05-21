@@ -24,6 +24,6 @@ ar.add(new employee(4,"Yash",14000,'M'));
 ar.add(new employee(5,"Neha",13000,'F'));
 ar.stream()
 .filter(x-> x.empsal>15000 && x.empsal<30000 && x.gender=='F')
-.forEach(s-> System.out.println(s.empname));
+.forEach(s-> System.out.println(s.empname)); // will filter name salary accordingly 
 }
 }
