@@ -1,0 +1,2 @@
+why a linkedList is faster than arrayList 
+final keyWord in class and with variable 
